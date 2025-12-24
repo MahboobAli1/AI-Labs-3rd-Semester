@@ -64,8 +64,7 @@ To run these notebooks locally:
 ## 👤 Author
 
 **Mahboob Ali**
-* **Roll Number:** 119
-* **Section:** C
+
 
 ---
 *Feel free to star ⭐ this repository if you find it helpful!*
