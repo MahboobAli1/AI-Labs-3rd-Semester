@@ -14,6 +14,7 @@ This repository is organized by lab sessions, each focusing on specific AI topic
 | **Lab 4** | **NumPy & Sets** | Mathematical set operations (Union, Intersection) and matrix manipulation. | `numpy` |
 | **Lab 5** | **Data Analysis** | Introduction to Pandas DataFrames, filtering, and statistical descriptions. | `pandas` |
 | **Lab 6** | **Tree Structures** | Creating and visualizing hierarchical tree data structures. | `treelib` |
+| **Lab 7** | **AI Agents & Automation** | Hands-on with **n8n** workflows to create an automated WhatsApp chatbot agent. | `n8n` |
 | **Lab 8** | **Search Algorithms** | Implementation of Breadth-First Search (BFS) for graph/tree traversal. | `treelib` |
 | **Lab 9** | **Supervised Learning** | Classification performance metrics (Confusion Matrix) using the Iris dataset. | `sklearn`, `pandas` |
 | **Lab 10** | **Unsupervised Learning** | K-Means Clustering implementation and data scaling. | `sklearn`, `matplotlib` |
@@ -29,6 +30,7 @@ The following tools and libraries were used to build these projects:
 * **Visualization:** Matplotlib
 * **Machine Learning:** Scikit-Learn
 * **Deep Learning:** TensorFlow, Keras
+* **Automation:** n8n (Workflow Automation)
 * **Environment:** Jupyter Notebook / Google Colab
 
 ## 🚀 Getting Started
@@ -55,14 +57,15 @@ To run these notebooks locally:
 ## 📈 Highlights
 
 * **Foundational Logic:** Strong focus on Python fundamentals including loops, tuples, and list comprehensions.
+* **Modern Automation:** Practical experience with **n8n** for building AI agents and chatbots.
 * **Custom Implementations:** Logic for library systems and set operations built from scratch.
-* **Intelligent Agents:** Implementation of a simple Vacuum Cleaner agent.
 * **Real-world Datasets:** Utilization of standard datasets like **Iris** and **MNIST**.
 
 ## 👤 Author
 
 **Mahboob Ali**
-
+* **Roll Number:** 119
+* **Section:** C
 
 ---
 *Feel free to star ⭐ this repository if you find it helpful!*
